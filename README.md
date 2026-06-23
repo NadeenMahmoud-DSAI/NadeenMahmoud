@@ -14,7 +14,7 @@
 ---
 
 ### Professional Summary
-Undergraduate Data Science and Artificial Intelligence student (Expected Graduation: Summer 2027) with a strong foundation in machine learning transparency, deep learning architectures, and big data processing. Native Arabic speaker with C1 professional proficiency in English, actively seeking internship opportunities to apply academic research to enterprise-level challenges.
+Undergraduate Data Science and Artificial Intelligence student with a strong foundation in machine learning transparency, deep learning architectures, and big data processing. Native Arabic speaker with C1 professional proficiency in English, actively seeking internship opportunities to apply academic research to enterprise-level challenges.
 
 **Academic & Research Focus:**
 * **Explainable AI (XAI):** Evaluating and interpreting complex classification models utilizing SHAP, LIME, Grad-CAM, Integrated Gradients, and ALE plots. 
